@@ -11,7 +11,7 @@ Type `help` command in inspect REPL to see more options.
 ## PhpStorm
 
 - Add settings in Run > Edit configurations  > +
-- Set:
+- Set Node.js:
   - node interpret
   - working directory
   - Javascript_file as an entry point to app

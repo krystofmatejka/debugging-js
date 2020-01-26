@@ -4,7 +4,7 @@
 
 - Install ts-node `npm i -D ts-node`
 - Add settings in Run > Edit configurations > +
-- Set
+- Set Node.js:
   - node interpret
   - node parameter `--require ts-node/register`
   - working directory
